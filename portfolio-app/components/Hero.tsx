@@ -46,8 +46,6 @@ export default function Hero() {
 
         <h1 className="text-3xl sm:text-6xl lg:text-[66px] font-Ovo leading-tight">
           {PERSONAL_INFO.roleTitle1}
-          <br />
-          {PERSONAL_INFO.roleTitle2}
         </h1>
 
         <p className="max-w-2xl mx-auto font-Ovo text-gray-700 dark:text-white/90 text-sm sm:text-base leading-relaxed">
